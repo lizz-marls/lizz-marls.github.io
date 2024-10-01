@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:<a href='#'>Affiliations</a>. Address. 
+subtitle: <a href='#'>Affiliations</a>. Address. 
 
 profile:
   align: right
