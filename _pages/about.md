@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle:<a href='#'>Affiliations</a>. Address. 
 
 profile:
   align: right
@@ -11,10 +11,10 @@ profile:
   more_info: >
     <p> </p>
 
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
-> hello! i am a first year student studying computer science at arizona state university
+hello! i am a first year student studying computer science at arizona state university
 
